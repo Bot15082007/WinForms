@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task5Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task6Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Task8Var2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
